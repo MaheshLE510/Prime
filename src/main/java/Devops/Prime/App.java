@@ -18,7 +18,7 @@ public class App {
     {
         if(num<=1)
         {
-            return false;
+            return false
         }
        for(int i=2;i<=num/2;i++)
        {
